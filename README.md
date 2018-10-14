@@ -89,26 +89,26 @@ Would you like to install flood?  [Y]es <span class="hljs-keyword">or</span> [N]
 <span class="hljs-number">99</span>) Do <span class="hljs-keyword">not</span> install Transmission
 Which version of Transmission <span class="hljs-keyword">do</span> you want? (Default <span class="hljs-number">40</span>): 
 
-<span class="hljs-comment">#安装VNC和X2Go</span>
+<span class="hljs-comment">#安装VNC和X2Go  远程桌面</span>
 <span class="hljs-number">01</span>) VNC  with xfce4
 <span class="hljs-number">02</span>) X2Go with xfce4
 <span class="hljs-number">99</span>) Do <span class="hljs-keyword">not</span> install remote desktop
 Would you like to install remote desktop? (Default <span class="hljs-number">99</span>): 
 
-<span class="hljs-comment">#安装wine和mono</span>
+<span class="hljs-comment">#安装wine和mono  跨平台插件</span>
 Would you like to install wine <span class="hljs-keyword">and</span> mono? [Y]es <span class="hljs-keyword">or</span> [N]o: 
 
 <span class="hljs-comment">#安装MKVToolnix、mktorrent、eac3to、mediainfo、ffmpeg</span>
 MKVToolnix, mktorrent, eac3to, mediainfo, ffmpeg ...
 Would you like to install the above additional softwares? [Y]es <span class="hljs-keyword">or</span> [N]o: 
 
-<span class="hljs-comment">#安装Flexget</span>
+<span class="hljs-comment">#安装Flexget  TR的RSS</span>
 Would you like to install Flexget? [Y]es <span class="hljs-keyword">or</span> [N]o: 
 
-<span class="hljs-comment">#安装rclone</span>
+<span class="hljs-comment">#安装rclone  挂载网盘为本地硬盘</span>
 Would you like to install rclone? [Y]es <span class="hljs-keyword">or</span> [N]o: 
 
-<span class="hljs-comment">#安装BBR</span>
+<span class="hljs-comment">#安装BBR  加速器</span>
 Your kernel is newer than <span class="hljs-number">4.9</span>, but BBR is <span class="hljs-keyword">not</span> enabled
 Would you like to <span class="hljs-keyword">use</span> BBR?  [Y]es <span class="hljs-keyword">or</span> [N]o: 
 
