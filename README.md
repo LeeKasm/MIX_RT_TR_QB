@@ -153,54 +153,5 @@ YaRSS2是用于RSS的插件；NoFolder可以让Deluge在下载种子时不生成
 <span class="hljs-meta">
 #</span><span class="bash">Box</span>
 考虑把各种客户端的安装每个都做成单独的脚本，然后在inexistence、banben中需要安装的时候直接调用，这个思路是从 QuickBox那边学到的，最后的命令大概这样子box install vnc、box purge qbittorrent。
-</code></pre><hr class="content-copyright"><blockquote class="content-copyright"><p class="content-copyright">版权声明：本文为原创文章，版权归 <a href="https://www.moerats.com/" target="_blank">Rat's Blog</a> 所有，转载请注明出处！</p><p class="content-copyright">本文链接：<a class="content-copyright" href="https://www.moerats.com/archives/676/">https://www.moerats.com/archives/676/</a></p><p class="content-copyright">注意：本博客邮件回复通知已开启，评论的时候请填写正确的邮箱，虚假邮箱直接删除！</p></blockquote>          </div>
-                              <!--文章页脚的广告位-->
-                 搬瓦工年付<code>$18</code>的<code>7</code>机房套餐补货了，电信联通优化，<code>512M</code>内存/<code>500G</code>流量/<code>1G</code>带宽，建站稳定，优惠码：<code>BWH1ZBPVK</code>，【<a href="https://bwh1.net/aff.php?aff=16161&amp;pid=43" target="_blank"><span style="color:red">点击购买</span></a>】！
-<br>
-搬瓦工年付<code>$28</code>的<code>CN2</code>高速线路，<code>512M</code>内存/<code>500G</code>流量/<code>1G</code>带宽，电信联通优化，延迟低，速度快，建站稳定，优惠码同上，【<a href="https://bwh1.net/aff.php?aff=16161&amp;pid=56" target="_blank"><span style="color:red">点击购买</span></a>】！
-<br>
-<code>Vultr</code>最新活动，充<code>$5</code>送<code>$33</code>，可以用<code>$2.5</code>的服务器一年多，活动随时结束，快上车【<a href="https://www.moerats.com/archives/543/" target="_blank"><span style="color:red">点击查看</span></a>】！                          <!--文章的页脚部件：打赏和其他信息的输出-->
-             
-             <div class="show-foot">
-                 <div class="notebook">
-                     <i class="fontello fontello-clock-o"></i>
-                     <span>最后修改：2018 年 07 月 14 日 06 : 22  AM</span>
-                 </div>
-                 <div class="copyright" data-toggle="tooltip" data-html="true" data-original-title="转载请联系作者获得授权，并注明转载地址"><span>© 著作权归作者所有</span>
-                 </div>
-             </div>
-                                      <!--打赏模块-->
-                 
-             <div class="support-author">
-                 <button data-toggle="modal" data-target="#myModal" class="btn btn-pay btn-danger btn-rounded"><i class="fontello fontello-wallet" aria-hidden="true"></i>&nbsp;赞赏</button>
-                 <div class="mt20 text-center article__reward-info">
-                     <span class="mr10">如果觉得我的文章对你有用，请随意赞赏</span>
-                 </div>
-             </div>
-             <div id="myModal" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
-                 <div class="modal-dialog modal-sm" role="document">
-                     <div class="modal-content">
-                         <div class="modal-header">
-                             <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-                             <h4 class="modal-title">赞赏作者</h4>
-                         </div>
-                         <div class="modal-body">
-                             <p class="text-center article__reward"> <strong class="article__reward-text">扫一扫支付</strong> </p>
-                             <div class="tab-content">
-                                 <img nogallery="" aria-labelledby="alipay-tab" class="pay-img tab-pane fade in active" id="alipay_author" role="tabpanel" src="https://www.moerats.com/usr/ad/zfb.jpg">
-                                 <img nogallery="" aria-labelledby="wechatpay-tab" class="pay-img tab-pane fade" id="wechatpay_author" role="tabpanel" src="https://www.moerats.com/usr/ad/wx.png">
-                             </div>
-                             <div class="article__reward-border mb20 mt10"></div>
-
-                             <div class="text-center" role="tablist">
-                                 <div class="pay-button" role="presentation"><button href="#alipay_author" id="alipay-tab" aria-controls="alipay_author" role="tab" data-toggle="tab" class="btn m-b-xs btn-info"><i class="iconfont icon-alipay" aria-hidden="true"></i><span>&nbsp;支付宝支付</span></button>
-                                 </div>
-                                 <div class="pay-button" role="presentation"><button href="#wechatpay_author" id="wechatpay-tab" aria-controls="wechatpay_author" role="tab" data-toggle="tab" class="btn m-b-xs btn-success"><i class="iconfont icon-wechatpay" aria-hidden="true"></i><span>&nbsp;微信支付</span></button>
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                 </div>
-             </div>
-                                  <!--/文章的页脚部件：打赏和其他信息的输出-->
+</code></pre><hr class="content-copyright"><blockquote class="content-copyright"><p class="content-copyright">版权声明：本文为原创文章，版权归 <a href="https://www.moerats.com/" target="_blank">Rat's Blog</a> 所有，转载请注明出处！</p><p class="content-copyright">本文链接：<a class="content-copyright" href="https://www.moerats.com/archives/676/">https://www.moerats.com/archives/676/</a></p><p class="content-copyright">注意：本博客邮件回复通知已开启，评论的时候请填写正确的邮箱，虚假邮箱直接删除！</p></blockquote>          </div>                     
          </div>
